@@ -10,4 +10,4 @@ contains 5 notebooks which covers the fundamentals of PyTorch and Torchvision.
 * 00_pytorch_fundamental
 * 02_neural_network_classification
 * 03_pytorch_computer_vision
-* 04_custom_dataset.ipynb
+* 04_custom_dataset
